@@ -7,7 +7,24 @@
   html {
     scroll-behavior: smooth;
   }
-
+  @font-face {
+    font-family: gotham-black;
+    src: url("./fonts/gotham-black.otf") format("opentype"),
+        /* Original File */
+        url("./fonts/gotham-black.woff") format("woff"),
+        /* Modern Browsers */
+        url("./fonts/gotham-black.ttf") format("truetype");
+    /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: ceraPro-light;
+  src: url("./fonts/CeraPro-light.otf") format("opentype"),
+      /* Original File */
+      url("./fonts/CeraPro-light.woff") format("woff"),
+      /* Modern Browsers */
+      url("./fonts/CeraPro-light.ttf") format("truetype");
+  /* Safari, Android, iOS */
+}
   body {
   margin: 0;
   font-family: 'Helvetica', sans-serif;
