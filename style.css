@@ -379,7 +379,7 @@ section.is-visible .bgchild:before, section.is-visible .bgchild:before {
 
 .parent3 {
     height: auto;
-    overflow: hidden;
+    /* overflow: hidden; */
   
   transition: height 2s;
 }
