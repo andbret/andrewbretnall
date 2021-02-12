@@ -83,7 +83,7 @@
     text-align: center;
     padding: 10px;
   }
-  .test01{
+  .cont01{
     display: flex;
 
     height: 100%;
@@ -92,7 +92,7 @@
     justify-content: center;
     
   }
-  .test02{
+  .cont02{
     height: auto;
     width: 100%;
     margin: 0;
@@ -101,7 +101,7 @@
     justify-content: flex-end;
 
   }
-  .test00 {
+  .cont00 {
     flex-wrap: nowrap;
     align-items: flex-end;
     align-content: flex-end;
@@ -270,17 +270,17 @@ font-size: 1rem;
   }
   
 
-.oof1{
+.sec1{
   background-color: rgb(255, 255, 255);
 color: rgb(32, 32, 32);
   
 }
-.oof5{
+.sec5{
   background-color: #242424;
 
   
 }
-.oof3{
+.sec3{
   background-color: #84c791;
 
   
